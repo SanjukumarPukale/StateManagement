@@ -78,6 +78,7 @@ class ProductScreen extends StatelessWidget {
                                     color: Colors.red,
                                   ),
                                 ),
+                                
                               ],
                             ),
                           ),
